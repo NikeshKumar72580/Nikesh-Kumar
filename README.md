@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekumar562" alt="princekumar562" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/princek60367792?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/princek60367792?s=08?logo=twitter&style=for-the-badge" alt="princek60367792?s=08" /></a> </p>
-
 - 🔭 I’m currently working on **Full Stack Webdevelopment**
 
 - 🌱 I’m currently learning **React Native**
